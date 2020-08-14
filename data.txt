@@ -1,5 +1,8 @@
-[ 
-    {"name": " リザードン","mon_ball": "超級球"}, 
-    {"name": " 妙蛙種子","mon_ball": "重複球"}, 
-    {"name": " 美娜斯","mon_ball": "潛水球"}
-]
+[
+  { name : "小火龍" , mon_ball : "普通球" },
+  { name : "水箭龜" , mon_ball : "超級球" },
+  { name : "超夢"   , mon_ball : "大師球" },
+  { name : "飛天螳螂" , mon_ball : "狩獵球" },
+  { name : "噴火龍"   , mon_ball : "大師球" },
+  { name : "妙蛙種子" , mon_ball : "普通球" },
+];
