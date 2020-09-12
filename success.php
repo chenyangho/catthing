@@ -44,34 +44,32 @@
   </header>
   <section id="section_intro">
     <div class="container">
-      <form>
         <div class="bank">
           <p>YHC-BANK</p><img class="img1" src="https://cdn.icon-icons.com/icons2/1804/PNG/512/iconfinder-481-university-bank-campus-court-4212926_114964.png" alt="" />
         </div>
         <div class="id">
           <div class="name">
-            <p>氏名 :<?php echo $name ?></p>
+            <p>氏名 :<?php echo $name ;?></p>
           </div>
           <div class="namefuri">
-            <p>フリガナ :<?php echo $furi ?></p>
+            <p>フリガナ :<?php echo $furi ;?></p>
           </div>
           <div class="sex">
-            <p>性別 :<?php echo $sex ?></p>
+            <p>性別 :<?php echo $sex ;?></p>
           </div>
           <div class="bir">
-            <p>生年月日 :<?php echo $birth_y + "/" + $birth_m + "/" + $birth_d ?></p>
+            <p>生年月日 :<?php echo $birth_y + "/" + $birth_m + "/" + $birth_d ;?></p>
           </div>
           <div class="mail">
-            <p>メールアドレス :<?php echo $email ?></p>
+            <p>メールアドレス :<?php echo $email ;?></p>
           </div>
           <div class="country">
-            <p>国籍 :<?php echo $country ?></p>
+            <p>国籍 :<?php echo $country ;?></p>
           </div>
           <div class="password">
-            <p>パスワード :<?php echo $password ?></p>
+            <p>パスワード :<?php echo $password ;?></p>
           </div>
         </div>
-      </form>
     </div>
   </section>
   <footer class="jumbotron rounded-0" id="footer">
